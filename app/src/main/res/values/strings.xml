@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HW4</string>
+    <string name="main_activity">Main Activity</string>
+    <string name="activity_image_anim">Image Anim Activity</string>
+    <string name="zoom_in">Zoom in</string>
+    <string name="bounce">Bounce</string>
+    <string name="zoom_out">Zoom out</string>
+    <string name="blink">Blink</string>
+</resources>
